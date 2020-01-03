@@ -1,0 +1,6 @@
+[submodule "Docs/MediumSeminar"]
+	path = Docs/MediumSeminar
+	url = git@github.com:JusteRaimbault/MediumSeminar.git
+[submodule "Docs/MediumConference"]
+	path = Docs/MediumConference
+	url = git@github.com:JusteRaimbault/MediumConference.git
